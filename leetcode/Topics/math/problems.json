@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-17T19:27:43.207Z",
+  "updatedAt": "2026-09-17T19:27:59.280Z",
   "problems": [
+    {
+      "frontendId": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "problemName": "0009-palindrome-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+      "folderPath": "leetcode/0009-palindrome-number/",
+      "readmePath": "leetcode/0009-palindrome-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0009-palindrome-number.java",
+          "path": "leetcode/0009-palindrome-number/0009-palindrome-number.java",
+          "sha": "dea821a9da4296a6dde40e886b880bf7303d9e60",
+          "lastSyncedAt": "2026-09-17T19:27:59.280Z"
+        }
+      ]
+    },
     {
       "frontendId": "13",
       "title": "Roman to Integer",

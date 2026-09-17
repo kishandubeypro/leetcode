@@ -4,6 +4,27 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-17T19:25:22.317Z",
-  "problems": []
+  "updatedAt": "2026-09-17T19:25:37.765Z",
+  "problems": [
+    {
+      "frontendId": "867",
+      "title": "Transpose Matrix",
+      "slug": "transpose-matrix",
+      "problemName": "0867-transpose-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/transpose-matrix/",
+      "folderPath": "leetcode/0867-transpose-matrix/",
+      "readmePath": "leetcode/0867-transpose-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0867-transpose-matrix.java",
+          "path": "leetcode/0867-transpose-matrix/0867-transpose-matrix.java",
+          "sha": "28401939738fc63af9a879d0c7c0a1813374ef12",
+          "lastSyncedAt": "2026-09-17T19:25:37.765Z"
+        }
+      ]
+    }
+  ]
 }

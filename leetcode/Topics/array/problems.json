@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-17T19:27:50.133Z",
+  "updatedAt": "2026-09-17T19:28:04.812Z",
   "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "leetcode/0001-two-sum/",
+      "readmePath": "leetcode/0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0001-two-sum.java",
+          "path": "leetcode/0001-two-sum/0001-two-sum.java",
+          "sha": "eed36e3345bc8bcecfe47b84fa16d6c05e630ec8",
+          "lastSyncedAt": "2026-09-17T19:28:04.812Z"
+        }
+      ]
+    },
     {
       "frontendId": "867",
       "title": "Transpose Matrix",

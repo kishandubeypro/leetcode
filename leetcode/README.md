@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 2 | 2 | 0 | 0 |
+| 4 | 4 | 0 | 0 |
 
 ## Activity
 
@@ -15,24 +15,24 @@ Contains topicwise list of solved problems.
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-18 | 2 |
+| 2026-09-18 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 1 | 50% |
-| Hash Table | 1 | 50% |
-| Math | 1 | 50% |
-| Matrix | 1 | 50% |
-| Simulation | 1 | 50% |
-| String | 1 | 50% |
+| Array | 2 | 50% |
+| Hash Table | 2 | 50% |
+| Math | 2 | 50% |
+| Matrix | 1 | 25% |
+| Simulation | 1 | 25% |
+| String | 1 | 25% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 1 |
+| [Array](Topics/array/) | 2 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 0 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -40,10 +40,10 @@ Contains topicwise list of solved problems.
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 1 |
+| [Hash Table](Topics/hash-table/) | 2 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 1 |
+| [Math](Topics/math/) | 2 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sorting](Topics/sorting/) | 0 |

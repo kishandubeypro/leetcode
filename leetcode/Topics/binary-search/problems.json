@@ -4,6 +4,27 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-17T19:25:22.317Z",
-  "problems": []
+  "updatedAt": "2026-09-19T08:02:40.497Z",
+  "problems": [
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "leetcode/0004-median-of-two-sorted-arrays/",
+      "readmePath": "leetcode/0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0004-median-of-two-sorted-arrays.java",
+          "path": "leetcode/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java",
+          "sha": "e6714d3bf2f0043f7a911766140cb90d327904be",
+          "lastSyncedAt": "2026-09-19T08:02:40.497Z"
+        }
+      ]
+    }
+  ]
 }

@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-20T15:58:36.733Z",
+  "updatedAt": "2026-09-20T15:58:46.042Z",
   "problems": [
     {
       "frontendId": "412",
@@ -22,7 +22,7 @@
           "filename": "0412-fizz-buzz.java",
           "path": "leetcode/0412-fizz-buzz/0412-fizz-buzz.java",
           "sha": "bb6c50f871bd0ff00ca58d465c1d733155174cc7",
-          "lastSyncedAt": "2026-09-20T15:58:36.733Z"
+          "lastSyncedAt": "2026-09-20T15:58:46.042Z"
         }
       ]
     },

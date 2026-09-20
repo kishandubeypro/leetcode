@@ -4,8 +4,28 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-17T19:27:50.133Z",
+  "updatedAt": "2026-09-20T15:58:36.733Z",
   "problems": [
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "leetcode/0412-fizz-buzz/",
+      "readmePath": "leetcode/0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0412-fizz-buzz.java",
+          "path": "leetcode/0412-fizz-buzz/0412-fizz-buzz.java",
+          "sha": "bb6c50f871bd0ff00ca58d465c1d733155174cc7",
+          "lastSyncedAt": "2026-09-20T15:58:36.733Z"
+        }
+      ]
+    },
     {
       "frontendId": "867",
       "title": "Transpose Matrix",

@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-19T08:40:15.840Z",
+  "updatedAt": "2026-09-21T17:48:57.028Z",
   "problems": [
     {
       "frontendId": "1",
@@ -63,6 +63,26 @@
           "path": "leetcode/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.java",
           "sha": "a7d9c802a4f2c3e70c41a47014b5ed387e3a97eb",
           "lastSyncedAt": "2026-09-19T08:40:15.840Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "problemName": "0088-merge-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+      "folderPath": "leetcode/0088-merge-sorted-array/",
+      "readmePath": "leetcode/0088-merge-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0088-merge-sorted-array.java",
+          "path": "leetcode/0088-merge-sorted-array/0088-merge-sorted-array.java",
+          "sha": "af6787a0601cb8b0e9e0c58003f66492b1353d30",
+          "lastSyncedAt": "2026-09-21T17:48:57.028Z"
         }
       ]
     },

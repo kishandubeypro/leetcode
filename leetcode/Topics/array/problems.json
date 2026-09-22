@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-21T17:48:57.028Z",
+  "updatedAt": "2026-09-22T16:55:37.246Z",
   "problems": [
     {
       "frontendId": "1",
@@ -83,6 +83,26 @@
           "path": "leetcode/0088-merge-sorted-array/0088-merge-sorted-array.java",
           "sha": "af6787a0601cb8b0e9e0c58003f66492b1353d30",
           "lastSyncedAt": "2026-09-21T17:48:57.028Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "problemName": "0136-single-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+      "folderPath": "leetcode/0136-single-number/",
+      "readmePath": "leetcode/0136-single-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0136-single-number.java",
+          "path": "leetcode/0136-single-number/0136-single-number.java",
+          "sha": "0dfa56a1e7911229364522b796da8fd9598a3a48",
+          "lastSyncedAt": "2026-09-22T16:55:37.246Z"
         }
       ]
     },

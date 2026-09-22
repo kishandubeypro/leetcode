@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-22T16:57:32.892Z",
+  "updatedAt": "2026-09-22T16:57:40.763Z",
   "problems": [
     {
       "frontendId": "136",
@@ -22,7 +22,7 @@
           "filename": "0136-single-number.java",
           "path": "leetcode/0136-single-number/0136-single-number.java",
           "sha": "0dfa56a1e7911229364522b796da8fd9598a3a48",
-          "lastSyncedAt": "2026-09-22T16:57:32.892Z"
+          "lastSyncedAt": "2026-09-22T16:57:40.763Z"
         }
       ]
     }

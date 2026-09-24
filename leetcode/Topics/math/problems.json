@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-20T15:59:04.989Z",
+  "updatedAt": "2026-09-24T17:48:29.286Z",
   "problems": [
     {
       "frontendId": "9",
@@ -43,6 +43,26 @@
           "path": "leetcode/0013-roman-to-integer/0013-roman-to-integer.java",
           "sha": "13ffe99bd0356466cd85ee04539ac621afe8aee1",
           "lastSyncedAt": "2026-09-18T17:37:14.151Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "problemName": "0066-plus-one",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+      "folderPath": "leetcode/0066-plus-one/",
+      "readmePath": "leetcode/0066-plus-one/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0066-plus-one.java",
+          "path": "leetcode/0066-plus-one/0066-plus-one.java",
+          "sha": "9d631b55da1d9fe41ee1716e4da58a56cc044232",
+          "lastSyncedAt": "2026-09-24T17:48:29.286Z"
         }
       ]
     },

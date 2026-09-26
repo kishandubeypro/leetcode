@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:52:17.885Z",
+  "updatedAt": "2026-09-26T06:58:22.545Z",
   "problems": [
     {
       "frontendId": "1",
@@ -123,6 +123,26 @@
           "path": "leetcode/0136-single-number/0136-single-number.java",
           "sha": "0dfa56a1e7911229364522b796da8fd9598a3a48",
           "lastSyncedAt": "2026-09-22T16:57:40.763Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "leetcode/0283-move-zeroes/",
+      "readmePath": "leetcode/0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0283-move-zeroes.java",
+          "path": "leetcode/0283-move-zeroes/0283-move-zeroes.java",
+          "sha": "d3f3cce434f543f3687ce99e3d0ad2bec62733a2",
+          "lastSyncedAt": "2026-09-26T06:58:22.545Z"
         }
       ]
     },
